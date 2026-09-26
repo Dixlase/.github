@@ -1,9 +1,9 @@
 ## Dixlase — Hardened at the core, free to express.
 
-An open-source CMS from Japan, built on Laravel 13. Sign-in, plugin contents and what runs on the page are
-protected in the core; design and features are left to plugins and themes.
+Dixlase is an open-source CMS from Japan, built on Laravel. Security lives in the core; design and features
+are left to plugins and themes.
 
-**v0.1.0 is a beta.** Production use is recommended from v1.0 onward.
+**v0.1.0 is a beta.** Later releases may include breaking changes, and production use is recommended from v1.0 onward.
 Website: [dixlase.org](https://dixlase.org/en) · Live demo: [dixlase.org/en#demo](https://dixlase.org/en#demo)
 
 ### Where to start
@@ -14,7 +14,7 @@ Website: [dixlase.org](https://dixlase.org/en) · Live demo: [dixlase.org/en#dem
 | [dixlase-docker-installer](https://github.com/Dixlase/dixlase-docker-installer) | Run Dixlase locally with Docker (`./setup.sh`) |
 | [dixlase-oneliner-installer](https://github.com/Dixlase/dixlase-oneliner-installer) | `curl -sS https://install.dixlase.net \| php` for hosts with PHP 8.3+ |
 | `plugin-dixlase-*` | Official plugins — Pages, Inquiry, Menus, SEO, Cookie Consent and more (GPL-3.0-or-later) |
-| [theme-dixlase-onepage](https://github.com/Dixlase/theme-dixlase-onepage) | The official theme |
+| [theme-dixlase-onepage](https://github.com/Dixlase/theme-dixlase-onepage) | The official theme (GPL-3.0-or-later) |
 
 ### Taking part
 
@@ -29,10 +29,10 @@ Website: [dixlase.org](https://dixlase.org/en) · Live demo: [dixlase.org/en#dem
 
 ## Dixlase — 守りはコアに、表現は自由に。
 
-Laravel 13 で作る、日本発のオープンソース CMS です。ログイン・プラグインの中身・ページで動くスクリプトの守りをコアに置き、
-デザインと機能はプラグインとテーマに任せます。
+Dixlase(ディクセイラス)は日本発・Laravel ベースのオープンソース CMS です。
+守りをコアに置き、デザインと機能はプラグインとテーマに任せます。
 
-**v0.1.0 はベータ版です。** 本番運用は v1.0 以降を推奨します。
+**v0.1.0 はベータ版です。** 今後のリリースで互換性のない変更(破壊的変更)が入ることがあります。本番運用は v1.0 以降を推奨します。
 公式サイト: [dixlase.org](https://dixlase.org/ja) · デモ: [dixlase.org/ja#demo](https://dixlase.org/ja#demo)
 
 ### 最初に見るリポジトリ
@@ -43,7 +43,7 @@ Laravel 13 で作る、日本発のオープンソース CMS です。ログイ�
 | [dixlase-docker-installer](https://github.com/Dixlase/dixlase-docker-installer) | Docker で手元に立ち上げる(`./setup.sh`) |
 | [dixlase-oneliner-installer](https://github.com/Dixlase/dixlase-oneliner-installer) | PHP 8.3 以上のホスト向けの `curl -sS https://install.dixlase.net \| php` |
 | `plugin-dixlase-*` | 公式プラグイン — ページ作成・お問い合わせ・メニュー・SEO・Cookie 同意など(GPL-3.0-or-later) |
-| [theme-dixlase-onepage](https://github.com/Dixlase/theme-dixlase-onepage) | 公式テーマ |
+| [theme-dixlase-onepage](https://github.com/Dixlase/theme-dixlase-onepage) | 公式テーマ(GPL-3.0-or-later) |
 
 ### 参加のしかた
 
