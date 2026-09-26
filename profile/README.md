@@ -3,8 +3,11 @@
 Dixlase is an open-source CMS from Japan, built on Laravel. Security lives in the core; design and features
 are left to plugins and themes.
 
-**v0.1.0 is a beta.** Later releases may include breaking changes, and production use is recommended from v1.0 onward.
-Website: [dixlase.org](https://dixlase.org/en) · Live demo: [dixlase.org/en#demo](https://dixlase.org/en#demo)
+**v0.1.0 is a beta.** Production use is recommended from v1.0 onward.  
+Later releases may include breaking changes.
+
+Website: [dixlase.org](https://dixlase.org/en)  
+Live demo: [dixlase.org/en#demo](https://dixlase.org/en#demo)
 
 ### Where to start
 
@@ -19,7 +22,7 @@ Website: [dixlase.org](https://dixlase.org/en) · Live demo: [dixlase.org/en#dem
 ### Taking part
 
 - **Bug reports and feature ideas** — open an Issue in the relevant repository.
-- **Questions** — info@dixlase.org
+- **Questions** — info@dixlase.org or the [contact form](https://dixlase.org/en#inquiry) on the website
 - **Security vulnerabilities** — never in a public Issue. Follow
   [SECURITY.md](https://github.com/Dixlase/dixlase-core/security/policy).
 - **Pull requests** — not accepted yet. They will open once the Contributor License Agreement is finalized.
@@ -32,8 +35,11 @@ Website: [dixlase.org](https://dixlase.org/en) · Live demo: [dixlase.org/en#dem
 Dixlase(ディクセイラス)は日本発・Laravel ベースのオープンソース CMS です。
 守りをコアに置き、デザインと機能はプラグインとテーマに任せます。
 
-**v0.1.0 はベータ版です。** 今後のリリースで互換性のない変更(破壊的変更)が入ることがあります。本番運用は v1.0 以降を推奨します。
-公式サイト: [dixlase.org](https://dixlase.org/ja) · デモ: [dixlase.org/ja#demo](https://dixlase.org/ja#demo)
+**v0.1.0 はベータ版です。** 本番運用は v1.0 以降を推奨します。  
+今後のリリースで互換性のない変更(破壊的変更)が入ることがあります。
+
+公式サイト: [dixlase.org](https://dixlase.org/ja)  
+デモ: [dixlase.org/ja#demo](https://dixlase.org/ja#demo)
 
 ### 最初に見るリポジトリ
 
@@ -48,7 +54,7 @@ Dixlase(ディクセイラス)は日本発・Laravel ベースのオープンソ
 ### 参加のしかた
 
 - **バグ報告・機能提案** — 該当するリポジトリの Issue へ
-- **ご質問** — info@dixlase.org
+- **ご質問** — info@dixlase.org または公式サイトの[お問い合わせフォーム](https://dixlase.org/ja#inquiry)
 - **脆弱性** — 公開 Issue には書かず、[SECURITY.md](https://github.com/Dixlase/dixlase-core/security/policy) の窓口へ
 - **Pull Request** — まだ受け付けていません(CLA の確定後に受付を始めます)
 - **自作のプラグイン・テーマ** — Plugin API を通じて、ライセンスも含めて自由に作れます
