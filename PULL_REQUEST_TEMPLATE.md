@@ -1,0 +1,39 @@
+> **Pull Requests are not currently accepted / 現在 Pull Request は受け付けていません**
+>
+> Dixlase is in early development and **does not currently accept external pull requests**. External code contributions will reopen once the formal legal review of the Contributor License Agreement (CLA) is complete. See [`CONTRIBUTING.md`](https://github.com/Dixlase/dixlase-core/blob/main/CONTRIBUTING.md) for the current contribution policy.
+>
+> Dixlase は初期開発期にあり、**外部からの Pull Request は現在受け付けていません**。CLA の正式法務レビュー完了後に再開予定です。現在のコントリビューション方針は [`CONTRIBUTING.md`](https://github.com/Dixlase/dixlase-core/blob/main/CONTRIBUTING.md) をご覧ください。
+>
+> If you've found a bug or have a suggestion, please use:
+>
+> - The **Issues** tab of this repository — bug reports, feature ideas / このリポジトリの **Issues** — バグ報告・機能提案
+>
+> ---
+>
+> The fields below describe the planned PR template that will be activated once external pull requests reopen.
+> 以下のフィールドは、外部 Pull Request 受付が再開された際に運用される予定のテンプレートです。
+
+## Description / 概要
+
+<!-- Describe what this PR does / この PR が何をするか説明してください -->
+
+## Related Issue / 関連 Issue
+
+<!-- e.g., Fixes #123 — merging closes the issue. See the issue guidelines: https://github.com/Dixlase/dixlase-core/blob/main/docs/development/issues.md / 例: Fixes #123(マージで Issue が閉じる)-->
+
+## Type of Change / 変更の種類
+
+- [ ] Bug fix / バグ修正
+- [ ] New feature / 新機能
+- [ ] Refactoring / リファクタリング
+- [ ] Documentation / ドキュメント
+- [ ] Other / その他:
+
+## Checklist / チェックリスト
+
+- [ ] I have read and agree to the [Copyright Policy](https://github.com/Dixlase/dixlase-core/blob/main/COPYRIGHT-POLICY.md) / [コピーライトポリシー](https://github.com/Dixlase/dixlase-core/blob/main/COPYRIGHT-POLICY.ja.md) を読み、同意しています
+- [ ] I have followed the [Contributing Guide](https://github.com/Dixlase/dixlase-core/blob/main/CONTRIBUTING.md) / [コントリビューションガイド](https://github.com/Dixlase/dixlase-core/blob/main/CONTRIBUTING.ja.md) に従っています
+- [ ] New source files include the standard license header / 新規ソースファイルに標準ライセンスヘッダーが含まれています
+- [ ] Tests have been added or updated / テストを追加・更新しました
+- [ ] Documentation has been updated if needed / 必要に応じてドキュメントを更新しました
+- [ ] If this PR introduces new public identifiers (API scopes, permission keys, event names, webhook event types, audit log actions, plugin capabilities, etc.), they follow [`docs/development/naming.md`](https://github.com/Dixlase/dixlase-core/blob/main/docs/development/naming.md) / 新規の公開識別子（API スコープ、permission キー、イベント名、Webhook event type、監査ログ action、プラグインケイパビリティ等）を導入する場合、[`docs/development/naming.md`](https://github.com/Dixlase/dixlase-core/blob/main/docs/development/naming.md) の規約に従っています
