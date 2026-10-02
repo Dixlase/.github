@@ -19,7 +19,8 @@
 
 ## Related Issue / 関連 Issue
 
-<!-- e.g., Fixes #123 — merging closes the issue. See the issue guidelines: https://github.com/Dixlase/dixlase-core/blob/main/docs/development/issues.md / 例: Fixes #123(マージで Issue が閉じる)-->
+<!-- Required: open an issue before editing source, then e.g. "Fixes #123". Exempt changes write one line instead: "No issue: <reason>" with security, release, signing, dependencies, generated or typo. See https://github.com/Dixlase/dixlase-core/blob/main/docs/development/issues.md#issue-first
+     必須: ソースの編集の前に Issue を立て、例えば "Fixes #123" と書く。例外は "No issue: <理由>" を 1 行で(security・release・signing・dependencies・generated・typo)。 -->
 
 ## Type of Change / 変更の種類
 
