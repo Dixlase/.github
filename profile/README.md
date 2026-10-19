@@ -28,6 +28,23 @@ Live demo: [dixlase.org/en#demo](https://dixlase.org/en#demo)
 - **Pull requests** — not accepted yet. They will open once the Contributor License Agreement is finalized.
 - **Your own plugins and themes** — build freely, under any license you choose, through the Plugin API.
 
+### Acknowledgments
+
+Dixlase stands on the foundation of excellent open source. With gratitude to
+[Laravel](https://laravel.com/), [Symfony](https://symfony.com/), [Alpine.js](https://alpinejs.dev/),
+[Tailwind CSS](https://tailwindcss.com/), [Laravel Fortify](https://laravel.com/docs/fortify),
+[Laravel Passkeys](https://github.com/laravel/passkeys), [Font Awesome](https://fontawesome.com/),
+[Bunny Fonts](https://fonts.bunny.net/), [marked](https://marked.js.org/),
+[highlight.js](https://highlightjs.org/), [SortableJS](https://sortablejs.github.io/Sortable/),
+[Composer](https://getcomposer.org/), [Node.js](https://nodejs.org/), [npm](https://www.npmjs.com/),
+[Vite](https://vite.dev/) and [Docker](https://www.docker.com/) — and to the countless other
+libraries, tools and contributors behind them. What each one gives Dixlase is written out on the
+[Philosophy page](https://dixlase.org/en/page/philosophy).
+
+Company, product and service names and logos mentioned here are trademarks or registered trademarks
+of their respective owners. They appear as an acknowledgment of each project and do not imply any
+affiliation or endorsement.
+
 ---
 
 ## Dixlase — 守りはコアに、表現は自由に。
@@ -58,3 +75,19 @@ Dixlase(ディクセイラス)は日本発のオープンソース CMS です。
 - **脆弱性** — 公開 Issue には書かず、[SECURITY.md](https://github.com/Dixlase/dixlase-core/security/policy) の窓口へ
 - **Pull Request** — まだ受け付けていません(CLA の確定後に受付を始めます)
 - **自作のプラグイン・テーマ** — Plugin API を通じて、ライセンスも含めて自由に作れます
+
+### 謝辞
+
+Dixlase は、優れたオープンソースの土台の上に成り立っています。
+[Laravel](https://laravel.com/)、[Symfony](https://symfony.com/)、[Alpine.js](https://alpinejs.dev/)、
+[Tailwind CSS](https://tailwindcss.com/)、[Laravel Fortify](https://laravel.com/docs/fortify)、
+[Laravel Passkeys](https://github.com/laravel/passkeys)、[Font Awesome](https://fontawesome.com/)、
+[Bunny Fonts](https://fonts.bunny.net/)、[marked](https://marked.js.org/)、
+[highlight.js](https://highlightjs.org/)、[SortableJS](https://sortablejs.github.io/Sortable/)、
+[Composer](https://getcomposer.org/)、[Node.js](https://nodejs.org/)、[npm](https://www.npmjs.com/)、
+[Vite](https://vite.dev/)、[Docker](https://www.docker.com/) — そしてその背後にある数多くの
+ライブラリ・ツールと貢献者の皆さまへ、感謝いたします。それぞれが Dixlase にとって何であるかは
+[Philosophy のページ](https://dixlase.org/ja/page/philosophy)に書いています。
+
+記載されている会社名・製品名・サービス名およびロゴは、各社の商標または登録商標です。
+掲載は各プロジェクトへの謝意を示すものであり、提携・推奨関係を示すものではありません。
