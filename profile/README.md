@@ -1,6 +1,6 @@
 ## Dixlase — Hardened at the core, free to express.
 
-Dixlase is an open-source CMS from Japan, built on Laravel. Security lives in the core; design and features
+Dixlase is an open-source CMS from Japan. Security lives in the core; design and features
 are left to plugins and themes.
 
 **v0.1.0 is a beta.** Production use is recommended from v1.0 onward.  
@@ -32,7 +32,7 @@ Live demo: [dixlase.org/en#demo](https://dixlase.org/en#demo)
 
 ## Dixlase — 守りはコアに、表現は自由に。
 
-Dixlase(ディクセイラス)は日本発・Laravel ベースのオープンソース CMS です。
+Dixlase(ディクセイラス)は日本発のオープンソース CMS です。
 守りをコアに置き、デザインと機能はプラグインとテーマに任せます。
 
 **v0.1.0 はベータ版です。** 本番運用は v1.0 以降を推奨します。  
