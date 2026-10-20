@@ -1,6 +1,6 @@
 ## Dixlase — Hardened at the core, free to express.
 
-Dixlase is an open-source CMS from Japan. Security lives in the core; design and features
+Dixlase is an open-source CMS. Security lives in the core; design and features
 are left to plugins and themes.
 
 **v0.1.0 is a beta.** Production use is recommended from v1.0 onward.  
@@ -49,7 +49,7 @@ affiliation or endorsement.
 
 ## Dixlase — 守りはコアに、表現は自由に。
 
-Dixlase(ディクセイラス)は日本発のオープンソース CMS です。
+Dixlase(ディクセイラス)はオープンソース CMS です。
 守りをコアに置き、デザインと機能はプラグインとテーマに任せます。
 
 **v0.1.0 はベータ版です。** 本番運用は v1.0 以降を推奨します。  
