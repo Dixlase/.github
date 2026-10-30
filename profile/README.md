@@ -1,9 +1,16 @@
-## Dixlase — Hardened at the core, free to express.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dixlase-logo-dark.svg">
+    <img src="assets/dixlase-logo-light.svg" alt="Dixlase — Open Source CMS" width="380">
+  </picture>
+</p>
+
+<p align="center"><strong>Hardened at the core, free to express.</strong></p>
 
 Dixlase is an open-source CMS. Security lives in the core; design and features
 are left to plugins and themes.
 
-**v0.1.0 is a beta.** Production use is recommended from v1.0 onward.  
+**The `0.x` series is a beta.** Production use is recommended from v1.0 onward.  
 Later releases may include breaking changes.
 
 Website: [dixlase.org](https://dixlase.org/en)  
